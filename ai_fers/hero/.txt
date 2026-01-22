@@ -1,0 +1,139 @@
+<div data-property-1="Variant5" className="w-[1920px] h-[1080px] relative bg-white">
+    <div className="w-[1920px] h-[1082px] left-0 top-[-1px] absolute bg-black/50" />
+    <div className="w-[1920px] h-36 left-[10px] top-[928px] absolute opacity-0 bg-gradient-to-b from-black/95 to-black/0" />
+    <div className="w-[1920px] h-36 left-0 top-[928px] absolute bg-gradient-to-b from-black/95 to-black/0" />
+    <div className="w-[1920px] h-44 left-0 top-0 absolute bg-gradient-to-b from-black/95 to-black/0" />
+    <div className="w-[1920px] h-32 px-12 py-5 left-0 top-0 absolute inline-flex justify-between items-center overflow-hidden">
+        <div className="w-32 h-20 relative overflow-hidden">
+            <div className="w-32 h-16 left-[0.09px] top-[0.11px] absolute bg-white" />
+            <div className="w-8 h-3.5 left-[94.44px] top-[25.15px] absolute bg-white" />
+            <div className="w-[4.99px] h-[5.02px] left-[31.51px] top-[74.86px] absolute bg-white" />
+            <div className="w-1 h-[4.87px] left-[96.41px] top-[74.95px] absolute bg-white" />
+            <div className="w-1 h-[4.81px] left-[14.28px] top-[74.99px] absolute bg-white" />
+            <div className="w-[3.39px] h-[5.19px] left-[71.11px] top-[74.66px] absolute bg-white" />
+            <div className="w-1 h-[5.10px] left-[64.31px] top-[76.60px] absolute bg-white" />
+            <div className="w-[2.69px] h-1.5 left-[90.88px] top-[74.47px] absolute bg-white" />
+            <div className="w-[2.98px] h-1.5 left-[74.87px] top-[74.48px] absolute bg-white" />
+            <div className="w-[3.44px] h-1.5 left-[87.28px] top-[76.35px] absolute bg-white" />
+            <div className="w-[2.90px] h-1.5 left-[22.03px] top-[74.48px] absolute bg-white" />
+            <div className="w-[2.62px] h-[3.28px] left-[53.63px] top-[76.52px] absolute bg-white" />
+            <div className="w-[2.81px] h-[3.16px] left-[84.45px] top-[76.70px] absolute bg-white" />
+            <div className="w-[2.71px] h-[3.16px] left-[100.70px] top-[76.69px] absolute bg-white" />
+            <div className="w-[2.72px] h-[3.26px] left-[42.36px] top-[76.59px] absolute bg-white" />
+            <div className="w-[2.80px] h-[3.33px] left-[18.87px] top-[76.54px] absolute bg-white" />
+            <div className="w-1 h-[3.31px] left-[49.38px] top-[76.59px] absolute bg-white" />
+            <div className="w-1 h-[3.31px] left-[80.31px] top-[76.58px] absolute bg-white" />
+            <div className="w-1 h-[3.30px] left-[36.84px] top-[76.60px] absolute bg-white" />
+            <div className="w-1 h-[3.30px] left-[111.52px] top-[76.59px] absolute bg-white" />
+            <div className="w-1 h-[3.27px] left-[24.98px] top-[76.62px] absolute bg-white" />
+            <div className="w-[2.80px] h-[3.31px] left-[115.36px] top-[76.60px] absolute bg-white" />
+            <div className="w-[2.78px] h-[3.29px] left-[56.53px] top-[76.58px] absolute bg-white" />
+            <div className="w-[2.80px] h-[3.28px] left-[103.79px] top-[76.63px] absolute bg-white" />
+            <div className="w-[2.80px] h-[3.35px] left-[118.33px] top-[76.56px] absolute bg-white" />
+            <div className="w-px h-1.5 left-[59.70px] top-[74.51px] absolute bg-white" />
+            <div className="w-px h-1.5 left-[40.97px] top-[74.48px] absolute bg-white" />
+            <div className="w-1 h-1 left-[123.03px] top-[20.51px] absolute bg-white" />
+            <div className="w-0.5 h-1 left-[45.66px] top-[75.31px] absolute bg-white" />
+            <div className="w-0.5 h-[3.26px] left-[78.05px] top-[76.52px] absolute bg-white" />
+            <div className="w-px h-[3.20px] left-[108.42px] top-[76.60px] absolute bg-white" />
+            <div className="w-[1.65px] h-[3.19px] left-[60.67px] top-[76.58px] absolute bg-white" />
+            <div className="w-[1.71px] h-[3.20px] left-[109.42px] top-[76.60px] absolute bg-white" />
+            <div className="w-px h-[3.24px] left-[47.87px] top-[76.56px] absolute bg-white" />
+            <div className="w-px h-[3.24px] left-[62.81px] top-[76.56px] absolute bg-white" />
+            <div className="w-px h-[3.20px] left-[106.92px] top-[76.60px] absolute bg-white" />
+            <div className="w-[0.74px] h-[0.49px] left-[48.12px] top-[75.20px] absolute bg-white" />
+            <div className="w-[0.51px] h-[0.63px] left-[63.05px] top-[75.03px] absolute bg-white" />
+            <div className="w-[0.51px] h-[0.59px] left-[107.17px] top-[75.16px] absolute bg-white" />
+            <div className="w-0.5 h-0.5 left-[124.17px] top-[21.23px] absolute bg-white" />
+            <div className="w-1 h-[0.32px] left-[9.46px] top-[78.04px] absolute bg-white" />
+            <div className="w-1 h-[0.32px] left-[121.84px] top-[78.04px] absolute bg-white" />
+        </div>
+        <div className="w-[908px] flex justify-end items-center gap-36">
+            <div className="flex justify-end items-center gap-20">
+                <div data-property-1="Default" className="w-28 h-6 relative">
+                    <div className="w-28 h-6 left-0 top-0 absolute">
+                        <div className="left-0 top-0 absolute text-right justify-start text-white text-xl font-normal font-['BL_Melody'] capitalize tracking-wide">Operations</div>
+                    </div>
+                </div>
+                <div data-property-1="Default" className="w-24 h-6 relative">
+                    <div className="w-24 h-6 left-0 top-0 absolute">
+                        <div className="left-0 top-0 absolute text-right justify-start text-white text-xl font-normal font-['BL_Melody'] capitalize tracking-wide">Solutions</div>
+                    </div>
+                </div>
+                <div className="text-right justify-start text-white text-xl font-normal font-['BL_Melody'] capitalize tracking-wide">Our Presence</div>
+                <div data-property-1="Default" className="w-24 h-6 relative">
+                    <div className="w-24 h-6 left-0 top-0 absolute">
+                        <div className="left-0 top-0 absolute text-right justify-start text-white text-xl font-normal font-['BL_Melody'] capitalize tracking-wide">About us</div>
+                    </div>
+                </div>
+                <div data-property-1="Default" className="w-20 h-6 relative">
+                    <div className="left-0 top-0 absolute text-right justify-start text-white text-xl font-normal font-['BL_Melody'] capitalize tracking-wide">contact</div>
+                </div>
+            </div>
+            <div data-property-1="Default" className="w-32 h-14 relative">
+                <div className="left-0 top-0 absolute inline-flex justify-start items-center gap-1.5">
+                    <div className="justify-start text-white text-xl font-normal font-['BL_Melody'] capitalize tracking-wide">MENU</div>
+                    <div className="w-14 h-14 relative overflow-hidden">
+                        <div className="w-5 h-[2.72px] left-[10px] top-[16.02px] absolute bg-white" />
+                        <div className="w-10 h-[2.72px] left-[10px] top-[27.49px] absolute bg-white" />
+                        <div className="w-5 h-[2.72px] left-[28.13px] top-[38.96px] absolute bg-white" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div className="w-[1305px] h-60 left-[52px] top-[260px] absolute overflow-hidden">
+        <div className="left-0 top-0 absolute justify-start text-white text-[154px] font-bold font-['Manrope'] capitalize">Building Legacies</div>
+    </div>
+    <div className="w-[868px] h-40 left-[52px] top-[460px] absolute overflow-hidden">
+        <div className="left-0 top-0 absolute justify-start text-white text-9xl font-normal font-['Manrope'] capitalize">Creating Growth</div>
+    </div>
+    <div className="w-[634px] h-16 left-[52px] top-[660px] absolute inline-flex flex-col justify-start items-start gap-3 overflow-hidden">
+        <div className="self-stretch justify-start text-light_e text-xl font-medium font-['Manrope'] capitalize leading-8 tracking-wide">Rooted in trust and driven by vision, ABC Group builds lasting value across diverse industries</div>
+    </div>
+    <div className="w-[1816px] left-[52px] top-[846px] absolute inline-flex justify-start items-center gap-44">
+        <div className="w-80 inline-flex flex-col justify-start items-start gap-4">
+            <div className="self-stretch inline-flex justify-between items-start">
+                <div className="justify-start text-white text-lg font-bold font-['Manrope'] uppercase tracking-widest">RETAIL</div>
+                <div className="text-right justify-start text-grey_b text-lg font-medium font-['Manrope'] uppercase tracking-widest">01</div>
+            </div>
+            <div className="self-stretch h-0 outline outline-1 outline-offset-[-0.50px] outline-grey_7"></div>
+            <div className="w-60 h-32 bg-black/25" />
+        </div>
+        <div className="w-80 inline-flex flex-col justify-start items-start gap-4">
+            <div className="w-80 flex flex-col justify-start items-start gap-4">
+                <div className="self-stretch inline-flex justify-between items-start">
+                    <div className="justify-start text-white text-lg font-bold font-['Manrope'] uppercase tracking-widest">SUPPLY CHAIN</div>
+                    <div className="text-right justify-start text-grey_b text-lg font-medium font-['Manrope'] uppercase tracking-widest">02</div>
+                </div>
+                <div className="self-stretch h-0 outline outline-1 outline-offset-[-0.50px] outline-grey_7"></div>
+            </div>
+            <div className="w-60 h-32 bg-black/25" />
+        </div>
+        <div className="w-80 inline-flex flex-col justify-start items-start gap-4">
+            <div className="w-80 flex flex-col justify-start items-start gap-4">
+                <div className="self-stretch inline-flex justify-between items-start">
+                    <div className="justify-start text-white text-lg font-bold font-['Manrope'] uppercase tracking-widest">Distribution</div>
+                    <div className="text-right justify-start text-grey_b text-lg font-medium font-['Manrope'] uppercase tracking-widest">03</div>
+                </div>
+                <div className="self-stretch h-0 outline outline-1 outline-offset-[-0.50px] outline-grey_7"></div>
+            </div>
+            <div className="w-60 h-32 bg-black/25" />
+        </div>
+        <div className="w-80 inline-flex flex-col justify-start items-start gap-4">
+            <div className="w-80 flex flex-col justify-start items-start gap-4">
+                <div className="self-stretch inline-flex justify-between items-start">
+                    <div className="justify-start text-white text-lg font-bold font-['Manrope'] uppercase tracking-widest">Digital & Technology</div>
+                    <div className="text-right justify-start text-grey_b text-lg font-medium font-['Manrope'] uppercase tracking-widest">04</div>
+                </div>
+                <div className="self-stretch h-0 outline outline-1 outline-offset-[-0.50px] outline-grey_7"></div>
+            </div>
+            <div className="w-60 h-32 bg-black/25" />
+        </div>
+    </div>
+    <div data-property-1="Default" className="w-40 h-80 left-[1725px] top-[384px] absolute overflow-hidden">
+        <div className="w-2 h-0 left-[138px] top-[41px] absolute origin-top-left rotate-90 opacity-0 outline outline-2 outline-offset-[-1px] outline-white"></div>
+        <div className="left-[115px] top-0 absolute justify-start text-Light_E5 text-xl font-semibold font-['Manrope'] capitalize tracking-wide">1998</div>
+        <div className="left-0 top-[284px] absolute justify-start text-Light_E5 text-xl font-semibold font-['Manrope'] capitalize tracking-wide">Journey Started </div>
+    </div>
+</div>

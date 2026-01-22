@@ -1,0 +1,16 @@
+You are working in a Next.js app using the App Router under src/app.
+
+Project structure:
+- Source code lives under src/
+- Assets live under src/assets/
+- Components live under src/app/components/
+
+Alias rule:
+- Always resolve @/* to src/*
+- Use "@/assets/..." not "/assets/..." for assets
+
+Path rules:
+- next/font/local paths are relative to the importing file; use ../assets/... from src/app/layout.tsx
+- For images in components, prefer "@/assets/..." (with the @ alias pointing to src)
+
+Do not generate extra documentation files unless explicitly requested.
